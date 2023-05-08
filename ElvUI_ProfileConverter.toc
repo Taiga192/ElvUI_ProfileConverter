@@ -1,8 +1,8 @@
 ## Interface: 70300
 ## Title: |cff1784d1ElvUI|r Profile Converter
 ## Notes: A small tool that allows converting old profile exports to the new format.
-## Version: 1.1.1
-## Author: AcidWeb
+## Version: 1.0.0
+## Author: Taiga
 ## RequiredDeps: ElvUI
 
 Embeds.xml
